@@ -1,4 +1,4 @@
-# C-Programming-Solutions
+# C Programming Solutions
 
 Welcome to my **C Programming Problem Solutions** repository! This repository contains a collection of C codes, organized from basic to advanced levels, covering a wide range of fundamental and functional concepts of the C language.
 
